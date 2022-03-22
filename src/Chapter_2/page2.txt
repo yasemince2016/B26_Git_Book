@@ -1,0 +1,2 @@
+Use the VCS Operations Popup (⌃ V or VCS | VCS Operations Popup) to quickly invoke any VCS-related commands. The list of
+ actions in the popup depends on the currently enabled VCS.
